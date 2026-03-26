@@ -70,24 +70,8 @@ An **AI**-powered real-time multitasking system using advanced **custom trained*
  | **Hardware**  | Raspberry Pi, Camera Modules, I2C LCD |
  | **Dev Tools** | Google Cloud Platform (GCP), Google Colab, MongoDB, OAuth 2.O |
 
- ---
- ## System Architecture
- ![Architecture](screenshots/architecture.png) 
- ## 🖼️ Screenshots
+------------------
 
- | Dashboard |
- |----------|
- | ![Dashboard](screenshots/web_dashboard.png) ![Graphs](screenshots/dashboard_graph.png) | ![Map](screenshots/map.png) |
-
- | Detection Logs | Vehicle info |
- |--------------------|--------------|
- | ![Logs](screenshots/vehicle_data_logs.jpg) | ![vehicle_info](screenshots/vehicle_info.jpg)
-
- | Detection demo 1 | Detection Demo 2 |
- |---------------------|----------------------------|
- | ![Detection](screenshots/detection_demo1.png) | ![Detection](screenshots/detection_demo2.png) |
-
- ---
  ## 🌍 Applications
 
  ### 1.  Automated Traffic Signal Control
